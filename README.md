@@ -1,5 +1,8 @@
 # Site do Serviço de Fiscalização de Produtos Controlados da 3ª Região Militar
 
+A SFPC (Serviço de Fiscalização de Produtos Controlados) é um órgão do Exército Brasileiro responsável por fiscalizar a produção, comércio, transporte, armazenamento, importação, exportação e utilização de produtos controlados. Esses produtos incluem armas de fogo, munições, explosivos, produtos químicos e outros materiais que possam ser utilizados para fins militares ou com potencial de causar danos à segurança nacional. 
+A SFPC atua em todo o território nacional, através de uma rede de seções e unidades militares que compõem o Sistema de Fiscalização de Produtos Controlados (SisFPC). A missão da SFPC é garantir que a produção, comércio e uso de produtos controlados sejam regulamentados e fiscalizados, visando a segurança pública e a defesa nacional. 
+
 ## Objetivo
 criar um site responsivo didático organizado e simples de maneira a facilitar o acesso a informação dentro da SFPC/3
 
