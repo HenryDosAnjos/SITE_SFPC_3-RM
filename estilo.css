@@ -1,0 +1,55 @@
+body{
+margin: 0.5px;
+border: 0px;
+}
+.img_logo_rm{
+    height: 90px;
+    
+}
+.img_sisfpc{
+    height: 90px;
+}
+.img_QR_CODE{
+    height: 100px; 
+}
+
+header{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: ;
+    border: 1px solid black;
+    color: #466C04;
+    margin-bottom: 5px;
+}
+.menu{
+    display: flex;
+    flex-flow: column;
+    height: 300px;
+    width: 200px;
+    border: 1px solid rgb(177, 172, 172);
+
+
+}
+
+.alinhamento_centro{
+    display: grid;
+    grid-template-columns:500px;
+    grid-template-rows: 3;
+
+
+}
+.alinhar_section{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+
+footer{
+    background-color: #466C04;
+    color: white;
+
+}
