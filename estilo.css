@@ -1,6 +1,7 @@
 body{
-margin: 0.5px;
-border: 0px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
 .img_logo_rm{
     height: 90px;
@@ -10,14 +11,14 @@ border: 0px;
     height: 90px;
 }
 .img_QR_CODE{
-    height: 100px; 
+    height: 200px; 
 }
 
 header{
     display: flex;
     align-items: center;
     text-align: center;
-    border: 1px solid black;
+    border-bottom: 1px solid black;
     color: #466C04;
     margin-bottom: 5px;
 }
@@ -26,9 +27,21 @@ header{
 footer{
     background-color: #466C04;
     color: white;
-
 }
 .slides{
     height: 400px;
-    width: 600px;
+    width:auto;
+}
+.paginas{
+    margin: 5px;
+    text-decoration: none;
+    color: #466C04;
+
+    
+}
+.paginas:hover {
+    color: white;
+    background-color:#466C04 ;
+    size: 3px;
+    cursor:pointer;
 }
