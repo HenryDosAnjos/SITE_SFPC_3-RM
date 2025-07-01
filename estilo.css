@@ -27,13 +27,9 @@ header{
     width:auto;
 }
 .paginas{
-    margin: 5px;
-    text-decoration: none;
     color: #466C04;
-
-    
 }
-.paginas:hover {
+.paginas:hover{
     color: white;
     background-color:#466C04 ;
     size: 3px;
