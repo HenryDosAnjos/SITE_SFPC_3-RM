@@ -18,7 +18,6 @@ header{
     display: flex;
     align-items: center;
     text-align: center;
-    border-bottom: 1px solid black;
     color: #466C04;
     margin-bottom: 5px;
 }
