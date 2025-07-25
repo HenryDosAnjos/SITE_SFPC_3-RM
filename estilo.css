@@ -34,3 +34,21 @@ header{
     size: 3px;
     cursor:pointer;
 }
+.subtopico{
+    text-align:left; 
+    margin-left: 10px; 
+    font-size: 20px;  
+    height: auto; 
+    width: auto; 
+    margin-top: 7px; 
+    border-radius: 3px;
+}
+.topico{
+    text-align: center; 
+    font-size: 20px; 
+    border: 3px solid #466C04; 
+    height: auto; 
+    width: auto; 
+    margin-top: 50px; 
+    border-radius: 10px;
+}
